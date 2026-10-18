@@ -1,0 +1,10 @@
+# Word list for square.dac. WORD or WORD SCORE; higher scores are tried first.
+MAD 80
+ORE 60
+PEN 70
+MOP 40
+ARE 90
+DEN 50
+CAT
+SUN
+BIT 30

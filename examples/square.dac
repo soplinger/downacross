@@ -1,0 +1,18 @@
+title: Square One
+author: Example
+notes: A fully open 3x3 word square
+
+[grid]
+...
+...
+...
+
+[across]
+1 | Furious
+4 | Mined metal
+5 | Writing tool
+
+[down]
+1 | Swab the floor
+2 | Plural of is
+3 | Animal's lair
